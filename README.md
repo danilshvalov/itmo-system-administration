@@ -27,3 +27,8 @@
 
 - [Текст](report/TEXT.md)
 - Презентация ([PDF](report/presentation/zfs.pdf), [PPTX](report/presentation/zfs.pptx))
+
+## Контакты
+
+Нашли ошибку? Напишите мне об этом в телеграм:
+[@danilshvalov](https://t.me/danilshvalov)
